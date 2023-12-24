@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Joseph
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Joseph
+- 👀 I’m interested in Web3
+- 🌱 I’m currently learning TS
 
 <!---
 Joseph15269/Joseph15269 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
