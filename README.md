@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Joseph
 - 👀 I’m interested in Web3
 - 🌱 I’m currently learning Python
-
 - Ready to work!
 
 <!---
